@@ -1,0 +1,14 @@
+[
+  {
+    "name": "This Week",
+    "value": "week"
+  },
+  {
+    "name": "This Month",
+    "value": "month"
+  },
+  {
+    "name": "This Year",
+    "value": "year"
+  }
+]
